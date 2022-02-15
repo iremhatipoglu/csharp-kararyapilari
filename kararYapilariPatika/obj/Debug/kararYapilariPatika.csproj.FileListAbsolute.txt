@@ -1,0 +1,8 @@
+C:\Users\iremh\source\repos\kararYapilariPatika\kararYapilariPatika\bin\Debug\kararYapilariPatika.exe.config
+C:\Users\iremh\source\repos\kararYapilariPatika\kararYapilariPatika\bin\Debug\kararYapilariPatika.exe
+C:\Users\iremh\source\repos\kararYapilariPatika\kararYapilariPatika\bin\Debug\kararYapilariPatika.pdb
+C:\Users\iremh\source\repos\kararYapilariPatika\kararYapilariPatika\obj\Debug\kararYapilariPatika.csproj.AssemblyReference.cache
+C:\Users\iremh\source\repos\kararYapilariPatika\kararYapilariPatika\obj\Debug\kararYapilariPatika.csproj.SuggestedBindingRedirects.cache
+C:\Users\iremh\source\repos\kararYapilariPatika\kararYapilariPatika\obj\Debug\kararYapilariPatika.csproj.CoreCompileInputs.cache
+C:\Users\iremh\source\repos\kararYapilariPatika\kararYapilariPatika\obj\Debug\kararYapilariPatika.exe
+C:\Users\iremh\source\repos\kararYapilariPatika\kararYapilariPatika\obj\Debug\kararYapilariPatika.pdb
